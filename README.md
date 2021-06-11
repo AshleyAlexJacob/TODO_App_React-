@@ -1,7 +1,7 @@
 # TODO App React
 
 ## React | Typescript | Tailwind CSS
-<img src="https://raw.githubusercontent.com/AshleyAlexJacob/TODO_App_React-/main/Thumbnail.jpg" height=200>
+<img src="https://raw.githubusercontent.com/AshleyAlexJacob/TODO_App_React-/main/Thumbnail.jpg" height=500>
 
 This is a very small project to test out React.
 You can run this project
